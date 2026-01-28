@@ -36,3 +36,5 @@ par = {x for x in range(0, 10, 2)}
 subpar = {2, 4}
 
 print(par > subpar) # par contém subpar?
+
+print(par < subpar)

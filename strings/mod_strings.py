@@ -47,3 +47,6 @@ print(eminusculo.islower())
 print("\n")
 
 print(estaEmBranco.isspace())
+
+print("{0:<10} {1}".format("123456", "podcre"))
+print("{0:+7}".format(32))
